@@ -1,4 +1,4 @@
-name: big5
+name: flutter_big5
 description: >-
     This package provides encode, decode method for big5.
     If you need a solution to encode, decode some old system

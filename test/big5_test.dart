@@ -2,7 +2,7 @@
  * Project Name:  [koreaJob]
  * File: /Users/bakbeom/work/Git/big5/test/big5_test.dart
  * Created Date: 2023-01-06 19:07:21
- * Last Modified: 2023-01-06 19:07:24
+ * Last Modified: 2023-01-06 19:28:09
  * Author: bakbeom
  * Modified By: bakbeom
  * copyright @ 2023  MOMONETWORK ALL RIGHTS RESERVED. 
@@ -11,7 +11,7 @@
  * ---	---	---	---	---	---	---	---	---	---	---	---	---	---	---	---
  */
 
-import 'package:big5/big5.dart';
+import 'package:flutter_big5/big5.dart';
 import 'package:flutter_test/flutter_test.dart';
 
 void main() {
