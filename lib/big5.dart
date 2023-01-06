@@ -1,16 +1,3 @@
-/*
- * Project Name:  [koreaJob]
- * File: /Users/bakbeom/work/Git/big5/lib/big5.dart
- * Created Date: 2023-01-06 19:06:51
- * Last Modified: 2023-01-06 19:14:55
- * Author: bakbeom
- * Modified By: bakbeom
- * copyright @ 2023  MOMONETWORK ALL RIGHTS RESERVED. 
- * ---	---	---	---	---	---	---	---	---	---	---	---	---	---	---	---
- * 												Discription													
- * ---	---	---	---	---	---	---	---	---	---	---	---	---	---	---	---
- */
-
 library big5;
 
 part 'table.dart';

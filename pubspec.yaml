@@ -3,13 +3,13 @@ description: >-
     This package provides encode, decode method for big5.
     If you need a solution to encode, decode some old system
     like kk.muds, this package will help you!
-version: 0.0.5
+version: 0.0.6
 # This plugin comes from  https://github.com/douasin/big5-dart
 # Due to no maintenance for a long time, I will temporarily maintain it.
 homepage: https://github.com/bakboem/big5  
 
 environment:
-  sdk: '>=2.18.4 <3.0.0'
+  sdk: '>=2.12.0 <3.0.0'
   flutter: ">=1.17.0"
 
 dependencies:
