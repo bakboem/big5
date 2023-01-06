@@ -4,3 +4,5 @@
 *  Added example code.
 ## 0.0.4
 *  Fixed example
+## 0.0.5
+*  Fixed example
